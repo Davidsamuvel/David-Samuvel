@@ -79,10 +79,10 @@ I’m **David Samuvel Kannan**, an aspiring **.NET Backend Developer** passionat
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=david-samuvel&show_icons=true&rank_icon=github&theme=transparent" height="165">
-  <img src="https://streak-stats.demolab.com?user=david-samuvel&theme=transparent" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Davidsamuvel&show_icons=true&rank_icon=github&theme=transparent" height="165">
+  <img src="https://streak-stats.demolab.com?user=Davidsamuvel&theme=transparent" height="165">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-samuvel&layout=compact&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidsamuvel&layout=compact&theme=transparent">
 </div>
 
 ---
