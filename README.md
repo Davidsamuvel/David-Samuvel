@@ -37,16 +37,20 @@ I’m **David Samuvel Kannan**, an aspiring **.NET Backend Developer** passionat
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/ADO.NET-512BD4?logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/Entity%20Framework-68217A?logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
 </p>
+
 
 ---
 
