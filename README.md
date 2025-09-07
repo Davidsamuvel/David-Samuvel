@@ -101,7 +101,7 @@ I’m **David Samuvel Kannan**, an aspiring **.NET Backend Developer** passionat
 <p>
   <a href="https://www.linkedin.com/in/david-samuvel-kannan-0b326b221"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:davidsamuvelkannan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/david-samuvel"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
 </p>
 
 ---
