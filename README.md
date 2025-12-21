@@ -25,12 +25,19 @@ I’m **David Samuvel Kannan**, an aspiring **.NET Backend Developer** passionat
 ---
 
 ## 💼 Experience
-**Digital Content Associate – Amazon Prime Video** *(Aug 2023 – Present)*  
-- Managed content ingestion and metadata tagging  
-- Ensured quality standards for video/audio and metadata  
-- Delivered reports for content optimization and workflows  
-- Collaborated with content, marketing, and technical teams  
+**Digital Content Associate – Amazon Prime Video** *(Aug 2023 – Oct 2025)*  
+- Worked closely with internal software tools and .NET-based applications supporting Prime Video operational workflows.
+- Performed data validation, issue analysis, and troubleshooting related to content workflows and system outputs.
+- Collaborated with engineering, QA, and operations teams to report defects, track fixes, and ensure smooth releases.
+- Analyzed system-generated reports and dashboards to improve process efficiency and data accuracy.
+- Gained strong exposure to enterprise systems, Agile processes, and cross-functional collaboration, strengthening my transition into a backend development role.
 
+**Junior .NET Developer – Lapiz** *(Oct 2025 - Dec 2025)*
+- Worked as a backend-focused .NET developer on live enterprise applications.
+- Developed and modified ASP.NET MVC/Core modules, repositories, and SQL queries as per business requirements.
+- Implemented search filters, dropdown dependencies, validations, and backend logic using C# and SQL Server.
+- Collaborated with senior developers to debug production issues, optimize queries, and enhance application performance.
+- Gained hands-on experience with real-time databases, stored procedures, views, and enterprise-level codebases.
 ---
 
 ## 🛠️ Technical Skills
